@@ -1,0 +1,6 @@
+[submodule "configs"]
+	path = configs
+	url = https://github.com/aihenry2980/configs.git
+[submodule "IPC_32_64_Win"]
+	path = IPC_32_64_Win
+	url = https://github.com/aihenry2980/IPC_32_64_Win.git
